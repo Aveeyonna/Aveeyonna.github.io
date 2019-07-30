@@ -1,0 +1,10 @@
+body {
+    font-family: 'Lora', serif;
+    font-size: larger;
+    background-color: rgb(243, 217, 66);
+    margin: 130px 130px 130px 130px;
+}
+
+#showHideSection {
+    display: none;
+}
